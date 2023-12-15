@@ -1,0 +1,121 @@
+"Age","LearnCodeOnline","n","prop"
+"18-24 years old","Audio",349,1
+"18-24 years old","Blogs",4020,11.4
+"18-24 years old","Certification videos",1025,2.9
+"18-24 years old","Coding sessions",1706,4.8
+"18-24 years old","Documentations",4718,13.4
+"18-24 years old","E-books",1987,5.6
+"18-24 years old","Forums",2110,6
+"18-24 years old","Games",688,2
+"18-24 years old","How-to videos",3473,9.8
+"18-24 years old","Interactive tutorial",1385,3.9
+"18-24 years old","Online challenges",1552,4.4
+"18-24 years old","Stack Overflow",4647,13.2
+"18-24 years old","Video based courses",2916,8.3
+"18-24 years old","Written courses",1785,5.1
+"18-24 years old","Written tutorials",2920,8.3
+"25-34 years old","Audio",1447,1.2
+"25-34 years old","Blogs",13923,12
+"25-34 years old","Certification videos",2738,2.4
+"25-34 years old","Coding sessions",4999,4.3
+"25-34 years old","Documentations",15850,13.7
+"25-34 years old","E-books",7605,6.6
+"25-34 years old","Forums",6576,5.7
+"25-34 years old","Games",2126,1.8
+"25-34 years old","How-to videos",10159,8.8
+"25-34 years old","Interactive tutorial",4687,4
+"25-34 years old","Online challenges",4662,4
+"25-34 years old","Stack Overflow",15208,13.1
+"25-34 years old","Video based courses",9361,8.1
+"25-34 years old","Written courses",6030,5.2
+"25-34 years old","Written tutorials",10389,9
+"35-44 years old","Audio",799,1.4
+"35-44 years old","Blogs",7124,12.4
+"35-44 years old","Certification videos",1134,2
+"35-44 years old","Coding sessions",2237,3.9
+"35-44 years old","Documentations",8049,14.1
+"35-44 years old","E-books",4336,7.6
+"35-44 years old","Forums",3469,6.1
+"35-44 years old","Games",1114,1.9
+"35-44 years old","How-to videos",4625,8.1
+"35-44 years old","Interactive tutorial",2173,3.8
+"35-44 years old","Online challenges",1869,3.3
+"35-44 years old","Stack Overflow",7485,13.1
+"35-44 years old","Video based courses",4264,7.5
+"35-44 years old","Written courses",3032,5.3
+"35-44 years old","Written tutorials",5522,9.6
+"45-54 years old","Audio",290,1.5
+"45-54 years old","Blogs",2368,12.3
+"45-54 years old","Certification videos",342,1.8
+"45-54 years old","Coding sessions",745,3.9
+"45-54 years old","Documentations",2671,13.9
+"45-54 years old","E-books",1761,9.2
+"45-54 years old","Forums",1332,6.9
+"45-54 years old","Games",299,1.6
+"45-54 years old","How-to videos",1601,8.3
+"45-54 years old","Interactive tutorial",676,3.5
+"45-54 years old","Online challenges",445,2.3
+"45-54 years old","Stack Overflow",2549,13.3
+"45-54 years old","Video based courses",1347,7
+"45-54 years old","Written courses",964,5
+"45-54 years old","Written tutorials",1808,9.4
+"55-64 years old","Audio",66,1.2
+"55-64 years old","Blogs",648,11.3
+"55-64 years old","Certification videos",89,1.6
+"55-64 years old","Coding sessions",208,3.6
+"55-64 years old","Documentations",854,14.9
+"55-64 years old","E-books",568,9.9
+"55-64 years old","Forums",411,7.2
+"55-64 years old","Games",48,0.8
+"55-64 years old","How-to videos",535,9.3
+"55-64 years old","Interactive tutorial",198,3.5
+"55-64 years old","Online challenges",90,1.6
+"55-64 years old","Stack Overflow",792,13.8
+"55-64 years old","Video based courses",420,7.3
+"55-64 years old","Written courses",289,5
+"55-64 years old","Written tutorials",521,9.1
+"65 years or older","Audio",12,1.1
+"65 years or older","Blogs",111,9.9
+"65 years or older","Certification videos",19,1.7
+"65 years or older","Coding sessions",50,4.5
+"65 years or older","Documentations",169,15.1
+"65 years or older","E-books",128,11.5
+"65 years or older","Forums",81,7.3
+"65 years or older","Games",6,0.5
+"65 years or older","How-to videos",108,9.7
+"65 years or older","Interactive tutorial",34,3
+"65 years or older","Online challenges",17,1.5
+"65 years or older","Stack Overflow",156,14
+"65 years or older","Video based courses",71,6.4
+"65 years or older","Written courses",53,4.7
+"65 years or older","Written tutorials",102,9.1
+"Prefer not to say","Audio",8,1
+"Prefer not to say","Blogs",95,12.3
+"Prefer not to say","Certification videos",17,2.2
+"Prefer not to say","Coding sessions",31,4
+"Prefer not to say","Documentations",108,14
+"Prefer not to say","E-books",59,7.6
+"Prefer not to say","Forums",45,5.8
+"Prefer not to say","Games",18,2.3
+"Prefer not to say","How-to videos",64,8.3
+"Prefer not to say","Interactive tutorial",38,4.9
+"Prefer not to say","Online challenges",23,3
+"Prefer not to say","Stack Overflow",98,12.7
+"Prefer not to say","Video based courses",53,6.9
+"Prefer not to say","Written courses",43,5.6
+"Prefer not to say","Written tutorials",72,9.3
+"Under 18 years old","Audio",3,0.5
+"Under 18 years old","Blogs",60,9.9
+"Under 18 years old","Certification videos",12,2
+"Under 18 years old","Coding sessions",35,5.8
+"Under 18 years old","Documentations",91,15
+"Under 18 years old","E-books",31,5.1
+"Under 18 years old","Forums",35,5.8
+"Under 18 years old","Games",19,3.1
+"Under 18 years old","How-to videos",63,10.4
+"Under 18 years old","Interactive tutorial",27,4.5
+"Under 18 years old","Online challenges",22,3.6
+"Under 18 years old","Stack Overflow",85,14
+"Under 18 years old","Video based courses",45,7.4
+"Under 18 years old","Written courses",26,4.3
+"Under 18 years old","Written tutorials",51,8.4
